@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(97, 145, 168);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(54, 4, 15) ;
+    font-size: 20px;
+    }
+
+.container{
+width:  1000px;
+margin: 16px auto;
+
+    }
+.logo{
+    font-size: 33px;
+    font-weight:bold;
+    letter-spacing: 6px;
+
+
+}
+
+nav li {
+
+    display: inline;
+    margin-right: 16px;
+}
+nav ul{
+
+    padding-left: 0%;
+}
+
+nav a, nav a:visited , nav a:active{
+
+    color: rgb(75, 109, 11);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+nav a:hover
+{
+color:orange;
+
+
+}
+
+img {
+ width: 950px;
+height: 400px;
+
+
+}
+
+footer {
+
+    background-color: rgb(10, 68, 68);
+    color: rgb(141, 128, 216);
+    font-size: 16px;
+    padding-top: 16px;
+    padding-left: 19px;
+    padding-bottom:16px; 
+    padding: 16px 24px 16px 24px;
+}
